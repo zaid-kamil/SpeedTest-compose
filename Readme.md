@@ -1,4 +1,2 @@
-<video controls>
-  <source src="https://youtube.com/shorts/n3Y-o-YSk8w?feature=share">
-  Your browser does not support the video tag.
-</video>
+Speed test app 
+[![Speed test app video](https://img.youtube.com/vi/0wiGUhQpr5w/0.jpg)](https://youtube.com/shorts/0wiGUhQpr5w)
